@@ -1,0 +1,10 @@
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\bin\Debug\ClientFormTema2.exe.config
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\bin\Debug\ClientFormTema2.exe
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\bin\Debug\ClientFormTema2.pdb
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.csprojAssemblyReference.cache
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.Form1.resources
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.Properties.Resources.resources
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.csproj.GenerateResource.cache
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.csproj.CoreCompileInputs.cache
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.exe
+C:\Users\mihae\OneDrive\Desktop\II\Laborator\Lab5\ClientFormTema2\ClientFormTema2\obj\Debug\ClientFormTema2.pdb
