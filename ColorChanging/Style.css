@@ -1,0 +1,32 @@
+body{
+	padding: 20px;
+	text-align: center;
+	background-color:#ffffff;  
+}
+#principal{
+   position: relative;
+   padding: 20%;
+   background-color: bisque;
+   
+}
+
+#buton1{
+
+ text-align: center;
+ font-size: large;
+ font-style:oblique;
+ width: 250px;
+ height: 100px;
+ position: center;
+ border-radius: 25px;
+ color: mediumvioletred;
+ background-color: mediumspringgreen;
+ transition: 0.5s;
+  
+}
+
+#buton1:hover{
+    cursor: pointer;
+  color: rgb(255, 255, 255);
+  background-color: lightskyblue;
+}
