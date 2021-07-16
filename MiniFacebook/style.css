@@ -1,0 +1,133 @@
+.upTitle{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: wavy;
+    color: lightblue;
+}
+.inputForm{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.inputContainer{
+    color: skyblue;
+}
+::placeholder{
+    color:paleturquoise;
+}
+.username{
+    padding: 5px;
+    margin: 20px;
+    color:salmon;
+    background-color:lightcyan;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: none;
+    
+}
+.pass{
+    padding: 5px;
+    margin: 20px;
+    color:salmon;
+    background-color:lightcyan;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: none;
+}
+
+#b1{
+    margin: 10px;
+    border-radius: 20px;
+    padding: 15px 40px;
+    background-color: lightcyan;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: skyblue;
+    font-weight: bold;
+    transition: 0.5s;
+    border: none;
+}
+#b1:hover{
+    background-color: white;
+    color:salmon;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.username:hover{
+    background-color: white;
+    color:salmon;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.pass:hover{
+    background-color: white;
+    color: salmon;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+::placeholder:hover{
+    color: salmon;
+}
+
+#b2{
+    margin: 10px;
+    border-radius: 20px;
+    padding: 15px 40px;
+    background-color: lightcyan;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: skyblue;
+    font-weight: bold;
+    transition: 0.5s;
+    border: none;
+}
+#b2:hover{
+    background-color: white;
+    color:salmon;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.regsiterContainer{
+    color: skyblue;
+}
+.registerForm
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    display: none;
+    
+}
+.nusername{
+    padding: 5px;
+    margin: 20px;
+    color:salmon;
+    background-color:lightcyan;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: none;
+}
+
+.npass{
+    padding: 5px;
+    margin: 20px;
+    color:salmon;
+    background-color:lightcyan;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: none;
+}
+#b3{
+    margin: 10px;
+    border-radius: 20px;
+    padding: 15px 40px;
+    background-color: lightcyan;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: skyblue;
+    font-weight: bold;
+    transition: 0.5s;
+    border: none;
+    
+}
+#b3:hover{
+    background-color: white;
+    color:salmon;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
